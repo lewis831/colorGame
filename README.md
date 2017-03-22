@@ -1,6 +1,6 @@
 Title: colorGame, Type: Plain text HTML, CSS and JavaScript, Author: Lewis Rashe
 -----
-This is a simple color game in which you click the colors till you win. It is written in regular JavaScript along with HTML and CSS.
+Simple game I wrote in plain text JavaScript, HTML and CSS. Not as advanced as my MeteorJS + React native Web Applications or my React Native mobile apps but its always cool to occasionally write plain text code.
 
 Because this is plain text JavaScript along with HTML and CSS, no special setup or terminal command installs are required to play it.
 
